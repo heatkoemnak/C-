@@ -10,7 +10,7 @@ int main(){
         if(i==6){
             
             cout<<i<<endl;
-            i-=3;
+            i+=3;
 
         }
         
